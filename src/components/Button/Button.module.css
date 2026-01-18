@@ -1,0 +1,32 @@
+.button {
+  padding: 6px 14px;
+  font-size: 14px;
+  font-weight: normal;
+  font-family: "MS Sans Serif", Tahoma, Arial, sans-serif;
+
+  background: #c0c0c0;
+  color: #000;
+
+  border: 2px solid;
+  border-color: #ffffff #404040 #404040 #ffffff;
+
+  cursor: pointer;
+  text-transform: none;
+}
+
+.button:active {
+  border-color: #404040 #ffffff #ffffff #404040;
+  padding-top: 7px;
+  padding-left: 15px;
+}
+
+.button:focus {
+  outline: 1px dotted #000;
+  outline-offset: -4px;
+}
+
+.button:disabled {
+  color: #808080;
+  border-color: #ffffff #808080 #808080 #ffffff;
+  cursor: default;
+}

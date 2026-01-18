@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: "MS Sans Serif", Tahoma, Arial, sans-serif;
+  background: #c0c0c0;
+  color: #000;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0 0 8px;
+}

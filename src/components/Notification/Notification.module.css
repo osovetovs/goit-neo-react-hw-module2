@@ -1,0 +1,12 @@
+.notification {
+  padding: 6px 8px;
+  font-size: 14px;
+  font-family: "MS Sans Serif", Tahoma, Arial, sans-serif;
+  color: #000;
+  text-align: left;
+
+  background: #c0c0c0;
+
+  border: 2px solid;
+  border-color: #ffffff #404040 #404040 #ffffff;
+}

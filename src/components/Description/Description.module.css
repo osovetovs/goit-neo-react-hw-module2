@@ -1,0 +1,18 @@
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "MS Sans Serif", Tahoma, Arial, sans-serif;
+  color: #000;
+  margin: 0 0 6px 0;
+  text-align: left;
+}
+
+.description {
+  font-size: 14px;
+  font-weight: normal;
+  font-family: "MS Sans Serif", Tahoma, Arial, sans-serif;
+  color: #000;
+  margin: 0 0 12px 0;
+  text-align: left;
+  line-height: 1.3;
+}
